@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "362827344011",
+    "project_id": "amera-store",
+    "storage_bucket": "amera-store.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362827344011:android:dd563bfc69aa63678d8c8e",
+        "android_client_info": {
+          "package_name": "com.example.amera_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362827344011-ugs0e73404utd6c787u7d4ec4gsoru7a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.amera_store",
+            "certificate_hash": "c8ab31ad33bb76750857d92c7e81f08037121623"
+          }
+        },
+        {
+          "client_id": "362827344011-idu498g2sc63oo207q16alungtlj713u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoqBjC2B6bkzbWx5e7C5f5je49B06kgrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362827344011-idu498g2sc63oo207q16alungtlj713u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

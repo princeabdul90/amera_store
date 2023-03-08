@@ -1,0 +1,9 @@
+{
+    "pageTitle": "Dashboard",
+    "storeCardTitle": "My Store",
+    "ordersCardTitle": "Orders",
+    "profileCardTitle": "Edit Profile",
+    "productsCardTitle": "Manage Products",
+    "balanceCardTitle": "Balance",
+    "statisticCardTitle": "Statistics"
+}

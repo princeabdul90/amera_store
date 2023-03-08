@@ -1,0 +1,34 @@
+name: sign_in
+description: A new Flutter package project.
+version: 0.0.1
+homepage:
+
+environment:
+  sdk: '>=2.18.2 <3.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^8.1.2
+  component_library:
+    path: ../../component_library
+  domain_models:
+    path: ../../domain_models
+  form_fields:
+    path: ../../form_fields
+  user_repository:
+    path: ../../user_repository
+
+
+  gap: ^2.0.1
+  fluentui_system_icons: ^1.1.190
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+
+flutter:
+  uses-material-design: true

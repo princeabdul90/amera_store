@@ -1,0 +1,17 @@
+{
+   "welcomePageTitle": "Amera Store",
+   "customerTitle": "Customer",
+   "sellerTitle": "Sellers Only",
+   "customerSignInButtonLabel": "Log In",
+   "customerSignUpButtonLabel": "Sign Up",
+   "sellerSignInButtonLabel": "Log In",
+   "sellerSignUpButtonLabel": "Sign Up",
+   "googleSignInLabel": "Google",
+   "facebookSignInLabel": "Facebook",
+   "guestSignInLabel": "Guest",
+   "buyAnimatedText": "Buy",
+   "sellAnimatedText": "Sell",
+   "browseAnimatedText": "Browse",
+   "multiStoreAnimatedText": "MultiStore"
+
+}

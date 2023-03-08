@@ -1,0 +1,13 @@
+{
+  "homeBottomNavigationBarItemLabel": "Home",
+  "categoryBottomNavigationBarItemLabel": "Category",
+  "storesBottomNavigationBarItemLabel": "Stores",
+  "cartBottomNavigationBarItemLabel": "Cart",
+  "profileBottomNavigationBarItemLabel": "Profile",
+
+  "sellerHomeBottomNavigationBarItemLabel": "Home",
+  "sellerCategoryBottomNavigationBarItemLabel": "Category",
+  "sellerStoresBottomNavigationBarItemLabel": "Stores",
+  "sellerDashboardBottomNavigationBarItemLabel": "Dashboard",
+  "sellerUploadBottomNavigationBarItemLabel": "Upload"
+}

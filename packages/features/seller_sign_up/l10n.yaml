@@ -1,0 +1,6 @@
+arb-dir: lib/src/l10n
+template-arb-file: messages_en.arb
+output-localization-file: seller_sign_up_localizations.dart
+output-class: SellerSignUpLocalizations
+synthetic-package: false
+nullable-getter: false
