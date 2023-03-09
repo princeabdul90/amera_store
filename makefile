@@ -1,6 +1,6 @@
 PACKAGES := $(wildcard packages/*)
 FEATURES := $(wildcard packages/features/*)
-BUILD-RUNNER := packages/amera_store packages/key_value_storage
+BUILD-RUNNER := packages/firebase packages/key_value_storage
 
 print:
 	for feature in $(FEATURES); do \
@@ -40,6 +40,12 @@ upgrade:
 		cd $${feature} ; \
 		echo "Updating dependencies on $${feature}" ; \
 		flutter pub upgrade ; \
+		cd ../../ ; \
+	done
+	for package in $(PACKAGES); do \
+		cd $${package} ; \
+		echo "Updating dependencies on ${{package}"; \
+		flutter pub upgrade; \
 		cd ../../ ; \
 	done
 
