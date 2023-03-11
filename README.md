@@ -16,7 +16,7 @@ repository design pattern, bloc state management, route master for smooth naviga
 firebase to manage app users data, localization to manage multiple languages and more.
 
 
-## Weather App project dependencies
+## Amera Store project dependencies
 
 Open the project in your preferred IDE. Then, fetch the project’s dependencies by using the terminal to
 run make get from the root directory.
